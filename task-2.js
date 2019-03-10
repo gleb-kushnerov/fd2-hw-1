@@ -1,7 +1,7 @@
 (function () {
     'use strict';
 
-    let numbers = [1, 2, 3, 4, 3, 1];
+    let numbers = [1, 2, 3, 6, 4, 3, 3, 6];
 
     // function removeDuplicates(arr) {
     //     let duplicates = {},
@@ -36,5 +36,4 @@
     }
 
     console.log(removeDuplicates(numbers));
-
 }());
